@@ -1,2 +1,3 @@
 # Sql
-All basics, Index, Partitions, Clusters, Hints, Stats etc.
+All basics, Index, Partitions, Clusters, Hints, Stats.
+Locking - Pessimistic vs Optimistic locking etc.
