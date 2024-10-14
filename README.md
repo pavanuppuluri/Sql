@@ -30,6 +30,39 @@ to data stored in a database.
 | GRANT   | Gives a privilege to user     |
 | REVOKE   | Takes back privileges granted from user.                |
 
+**Examples**
+
+**ALTER**
+
+The ALTER TABLE statement is used to alter the structure of a table. 
+For instance, you can add, drop, and modify the data of a column using this statement. 
+Following is the syntax −
+
+![image](https://github.com/user-attachments/assets/04224e88-c595-425a-be8b-bacc46491212)
+
+![image](https://github.com/user-attachments/assets/64f030f4-a8dc-4ab0-bf06-418bcb565cd8)
+
+![image](https://github.com/user-attachments/assets/3e7cb3b7-e265-41b1-927e-15cd8d887857)
+
+**DISTINCT**
+The DISTINCT clause in a database is used to identify the non-duplicate data from a column. 
+
+![image](https://github.com/user-attachments/assets/ce0cd581-f3ef-45a3-980c-a982ea51ab04)
+
+**IN clause**
+
+![image](https://github.com/user-attachments/assets/35ab5f7d-e8fb-4249-811f-35d41663caa7)
+
+**BETWEEN clause**
+
+![image](https://github.com/user-attachments/assets/4e70a904-412c-4a0f-a2bb-78de48c5183d)
+
+**ORDER BY clause**
+
+![image](https://github.com/user-attachments/assets/23b20063-7cfa-4783-bd53-3bd68c738ce0)
+
+
+
 
 
 
