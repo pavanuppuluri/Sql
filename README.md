@@ -61,6 +61,14 @@ The DISTINCT clause in a database is used to identify the non-duplicate data fro
 
 ![image](https://github.com/user-attachments/assets/23b20063-7cfa-4783-bd53-3bd68c738ce0)
 
+**GROUP BY clause**
+
+The GROUP BY Clause is used to group the values of a column together.
+
+![image](https://github.com/user-attachments/assets/abf38f75-5ace-44dc-a5a4-4e6ffec40960)
+
+![image](https://github.com/user-attachments/assets/a2deb685-7044-4e3d-a704-85e3c0b5980a)
+
 
 
 
